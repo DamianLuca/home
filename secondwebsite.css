@@ -1,0 +1,7 @@
+html
+{
+	background-image: url("websitebackground.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+/* here is just some css to format the background so that it covers the entire webpage without repeating */

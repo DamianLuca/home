@@ -1,0 +1,36 @@
+.gif
+{
+	width: 180px;
+	height: auto;
+	padding: 1%;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+/*above a class I called gif was used to refer to two gif images used on the website */
+html
+{
+	text-align:center;
+	background-image: url("websitebackground.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+/* above is some general formatting for the html */
+p
+{
+	font-size: 25px;
+}
+ul 
+{
+	text-align: left;
+	font-size: 25px;
+}
+h2
+{
+	text-align: left;
+}
+#things
+{
+	width: 350px;
+	height: auto;
+}
+/* here is the use of an id selector to select a specific image I used later in the webpage */
